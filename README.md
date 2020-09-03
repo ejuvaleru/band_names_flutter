@@ -1,10 +1,8 @@
-# band_names
+# Band Names App
 
-A new Flutter project.
+Una aplicación hecha en Flutter utilizando comunicación por sockets.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
+## Para comenzar con Flutter
 
 A few resources to get you started if this is your first Flutter project:
 
